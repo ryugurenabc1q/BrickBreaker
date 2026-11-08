@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Satisfying Brick Breaker",
+      "hasCanvas": true,
+      "bodyTextLen": 515,
+      "bodyTextHash": "ba6fab9058527f38ae71431a4ecbdaab2ea24d56b52e71eb0b16bdca059240db",
+      "bodyTextPrefix": "ORANGE / STEEL / WHITE Satisfying brick breaker. Drag or use the",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Satisfying Brick Breaker",
+      "hasCanvas": true,
+      "bodyTextLen": 492,
+      "bodyTextHash": "bc6cc20ff8b92761a40c937a6220d93124bdf59dcb2df7f458d674cdb66cec06",
+      "bodyTextPrefix": "Satisfying brick breaker. Drag or use the arrow keys to move the",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
